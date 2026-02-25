@@ -1,0 +1,3 @@
+1500 - groceries
+2 - ticket
+200 - transport
