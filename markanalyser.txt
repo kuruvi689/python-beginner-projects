@@ -1,0 +1,13 @@
+Student Name	Mark
+d	23.0
+e	78.0
+a	54.0
+b	34.0
+saranya	99.5
+i   98.0
+u	34.0
+me	54.0
+abi	100.0
+c	23.0
+m	90.0
+v	78.0
